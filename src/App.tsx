@@ -49,7 +49,7 @@ const App = (): React.JSX.Element => {
   }
 
   return (
-    <div className='min-h-screen bg-zinc-500 w-full font-onest'>
+    <div className='min-h-screen bg-zinc-800 w-full font-onest'>
       <div className="">
         <Title />
       </div>
